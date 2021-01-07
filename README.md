@@ -36,5 +36,5 @@ You can reach me by [zhuwy19@mails.tsinghua.edu.cn](mailto:zhuwy19@mails.tsinghu
 </table>
 
 
-[![Learner0x5a's github stats](https://github-readme-stats.vercel.app/api?username=Learner0x5a)](https://github.com/Learner0x5a/github-readme-stats&show_icons=true&theme=vue)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Learner0x5a)](https://github.com/Learner0x5a/github-readme-stats)
+[![Learner0x5a's github stats](https://github-readme-stats.vercel.app/api?username=Learner0x5a)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=vue)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Learner0x5a)](https://github.com/anuraghazra/github-readme-stats)
