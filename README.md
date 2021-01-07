@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Learner0x5a's github stats](https://github-readme-stats.vercel.app/api?username=Learner0x5a)](https://github.com/Learner0x5a/github-readme-stats&show_icons=truetheme=solarized-light)
+[![Learner0x5a's github stats](https://github-readme-stats.vercel.app/api?username=Learner0x5a)](https://github.com/Learner0x5a/github-readme-stats&show_icons=true&theme=vue)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Learner0x5a)](https://github.com/Learner0x5a/github-readme-stats)
