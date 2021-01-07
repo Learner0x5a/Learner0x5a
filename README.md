@@ -32,12 +32,6 @@ My interests include quantum phisics, molecular dynamics, philosophy.
 You can reach me by [zhuwy19@mails.tsinghua.edu.cn](mailto:zhuwy19@mails.tsinghua.edu.cn).
 
 </td>
-<td>
-
-<img src="https://images-platform.99static.com//075S3u8TVJdT6e_ovdK47pfyGKY=/762x137:1262x637/fit-in/590x590/99designs-contests-attachments/45/45850/attachment_45850520
-" width="50%">
-
-</td>
 </tr>
 </table>
 
