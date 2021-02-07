@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 <tr>
 <td>
 
-I have studied Material Science and Engineering in Tsinghua University and transferred to Electronic Engineering as a PhD student. 
+I have studied Material Science and Engineering in Tsinghua University and changed majors to Communication and Information Engineering as a PhD student. 
 
 Currently I'm working on fuzzing and program analysis in NISL, Tsinghua University. 
 
-My interests include quantum phisics, molecular dynamics, philosophy. 
+My interests include quantum phisics, molecular dynamics and philosophy. 
 
 You can reach me by [zhuwy19@mails.tsinghua.edu.cn](mailto:zhuwy19@mails.tsinghua.edu.cn).
 
